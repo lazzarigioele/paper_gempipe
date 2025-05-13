@@ -13,7 +13,7 @@ feature_number,common_name,exr_draft_pangsmm,GCA_000168255.1,GCA_000712565.2,GCA
 10,l-arabinose,EX_arab__L_e,1,0,1,1,1,1,0,0,1,0,1,1
 11,d-xylose,EX_xyl__D_e,1,0,1,1,0,0,0,0,0,0,0,0
 12,d-fructose,EX_fru_e,0,0,0,0,0,0,0,0,0,0,0,0
-13,d-mannose,EX_man_e,0,0,0,0,0,0,0,0,0,0,0,0
+13,d-mannose,-,0,0,0,0,0,0,0,0,0,0,0,0
 14,methyl α-d-glucopyranoside,EX_madg_e,0,0,0,0,0,0,0,1,1,0,0,0
 15,aesculin,-,0,0,0,0,0,0,0,0,0,0,0,0
 16,glycerol,EX_glyc_e,0,0,0,0,0,0,0,0,0,0,0,0

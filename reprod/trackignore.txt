@@ -46,7 +46,13 @@ validation/*/tools_runs/gempipe_rf/*
 
 case_study/slurm
 case_study/genomes_all
+case_study/genomes_nomags
 case_study/genomes_tf
 case_study/reference/Lreuteri_530_fixed.*
 case_study/fastani
 case_study/gempipe
+case_study/tables/gal_deficient.xlsx
+case_study/tables/fru_competent.xlsx
+
+
+case_study/escher

@@ -1,12 +1,10 @@
 
 
 mkdir -p fastani
-mkdir -p fastani/input_fna
 
-cp genomes_all/genbank/bacteria/*/*.fna fastani/input_fna  
 
 ANIclustermap \
-	-i fastani/input_fna \
+	-i genomes_nomags \
 	-o fastani \
 	--mode fastani \
 	--thread_num 36 \

@@ -23,13 +23,10 @@ validation/03_pseudomonas/tools_runs/gempipe/working/clustering/combined.faa
 validation/03_pseudomonas/tools_runs/gempipe/working/rec_overlap/sequences.csv
 case_study/fastani/ANIclustermap.svg
 case_study/gempipe/working/coordinates/seq_to_coords.pickle
-case_study/gempipe/working/rec_broken/seq_to_coords.pickle
 case_study/gempipe/working/rec_broken/sequences.csv
-case_study/gempipe/working/rec_masking/seq_to_coords.pickle
 case_study/gempipe/working/rec_masking/sequences.csv
 case_study/gempipe/working/clustering/sequences.csv
 case_study/gempipe/working/clustering/combined.faa
-case_study/gempipe/working/rec_overlap/seq_to_coords.pickle
 case_study/gempipe/working/rec_overlap/sequences.csv
 old/validation/01_klebsiella/validation/gempipe/working/rec_broken/sequences.csv
 old/validation/01_klebsiella/validation/gempipe/working/rec_masking/sequences.csv
@@ -107,7 +104,13 @@ validation/*/tools_runs/gempipe_rf/*
 
 case_study/slurm
 case_study/genomes_all
+case_study/genomes_nomags
 case_study/genomes_tf
 case_study/reference/Lreuteri_530_fixed.*
 case_study/fastani
 case_study/gempipe
+case_study/tables/gal_deficient.xlsx
+case_study/tables/fru_competent.xlsx
+
+
+case_study/escher
