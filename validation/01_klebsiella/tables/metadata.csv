@@ -1,0 +1,38 @@
+,Strain,Species,Accession
+0,200023T,K. africana,GCA_020526085.1
+1,03-9138-2,K. pneumoniae,GCA_020526045.1
+2,04A025,K. pneumoniae,GCA_020526025.1
+3,BJ1,K. pneumoniae,GCA_020526065.1
+4,CG43,K. pneumoniae,NC_022566.1 + NC_005249.1
+5,CIP 52.145,K. pneumoniae,GCA_000968155.1
+6,KP13,K. pneumoniae,GCA_000512165.1
+7,MGH 78578,K. pneumoniae,GCF_000016305.1
+8,NJST258-1,K. pneumoniae,GCF_000598005.1
+9,NTUH K2044,K. pneumoniae,GCF_000009885.1
+10,SA1,K. pneumoniae,GCA_020525885.1
+11,SA12,K. pneumoniae,GCA_020525485.1
+12,SB1067,K. pneumoniae,GCA_020525845.1
+13,SB1139,K. pneumoniae,GCA_020525505.1
+14,SB1170,K. pneumoniae,GCA_020525645.1
+15,SB2390 (=cur15505),K. pneumoniae,GCA_020526005.1
+16,SB611,K. pneumoniae,GCA_020525985.1
+17,SB612,K. pneumoniae,GCA_020525965.1
+18,SB615,K. pneumoniae,GCA_020525945.1
+19,SB617,K. pneumoniae,GCA_020525905.1
+20,T69,K. pneumoniae,GCA_020525865.1
+21,01A030T,K. quasipneumoniae subsp quasipneumoniae,GCA_020525925.1
+22,18A069,K. quasipneumoniae subsp quasipneumoniae,GCA_020525805.1
+23,SB1124,K. quasipneumoniae subsp quasipneumoniae,GCA_020525825.1
+24,SB98,K. quasipneumoniae subsp quasipneumoniae,GCA_020525785.1
+25,U41,K. quasipneumoniae subsp quasipneumoniae,GCA_020525725.1
+26,07A044T,K. quasipneumoniae subsp similipneumoniae,GCA_020525685.1
+27,09A323,K. quasipneumoniae subsp similipneumoniae,GCA_020525585.1
+28,12A476,K. quasipneumoniae subsp similipneumoniae,GCA_020525525.1
+29,CIP 110288 (= CW-D3),K. quasipneumoniae subsp similipneumoniae,GCA_020525565.1
+30,SB610,K. quasipneumoniae subsp similipneumoniae,GCA_020525705.1
+31,08A119,K. quasivariicola,GCA_020525665.1
+32,CDC 4241-71,K. variicola subsp tropica,GCA_020525625.1
+33,01A065,K. variicola subsp variicola,GCA_020525605.1
+34,342,K. variicola subsp variicola,GCF_000019565.1
+35,At-22,K. variicola subsp variicola,GCF_000025465.1
+36,F2R9T,K. variicola subsp variicola,GCA_020525545.1

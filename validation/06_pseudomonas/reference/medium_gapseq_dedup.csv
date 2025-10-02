@@ -1,0 +1,21 @@
+compounds,name,maxFlux
+cpd00027,glc__D: D-Glucose,10.0
+cpd00001,h2o: H2O,1000.0
+cpd00067,h: H+,1000.0
+cpd00009,pi: Phosphate,1000.0
+cpd00013,nh4: Ammonium,1000.0
+cpd00205,k: Potassium,1000.0
+cpd00254,mg2: Magnesium,1000.0
+cpd00034,zn2: Zinc,1000.0
+cpd00011,co2: CO2,1000.0
+cpd00058,cu2: Cu2+,1000.0
+cpd00007,o2: O2,20.0
+cpd10515,fe2: Fe2+,1000.0
+cpd00048,so4: Sulfate,1000.0
+cpd00971,na1: Sodium,1000.0
+cpd01012,cd2: Cadmium,1000.0
+cpd00030,Mn2+,1000.0
+cpd00063,Ca2+,1000.0
+cpd00099,Cl-,1000.0
+cpd00149,Cobalt,1000.0
+cpd10516,Fe3+,1000.0

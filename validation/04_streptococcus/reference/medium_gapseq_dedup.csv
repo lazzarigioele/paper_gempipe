@@ -1,0 +1,122 @@
+compounds,name,maxFlux
+cpd15311,"12dgr180: 1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)",1000.0
+cpd00029,ac: Acetate,1000.0
+cpd00142,acac: Acetoacetate,1000.0
+cpd00071,acald: Acetaldehyde,1000.0
+cpd00122,acgam: N-acetyl-D-glucosamine,4.6
+cpd21149,acnam: N-acetylneuraminate,4.6
+cpd00035,ala__L: L-alanine,0.46
+cpd27351,arab__L: L-arabinose,4.6
+cpd00051,arg__L: L-arginine,0.46
+cpd00797,bhb: (R)-3-hydroxybutyrate,1000.0
+cpd00104,btn: Biotin,1000.0
+cpd00211,but: Butyrate,1000.0
+cpd00063,ca2: calcium(2+),1000.0
+cpd01012,cd2: Cadmium,1000.0
+cpd00158,cellb: cellobiose,4.6
+cpd01017,cgly: L-cysteinylglycine,0.46
+cpd00099,cl: Chloride,1000.0
+cpd00149,cobalt2: Co2+,1000.0
+cpd00058,cu2: Cu2+,1000.0
+cpd00084,cys__L: L-cysteine,0.46
+cpd00363,etoh: Ethanol,1000.0
+cpd10515,fe2: Fe2+,1000.0
+cpd10516,fe3: Fe3+,1000.0
+cpd00393,fol: Folate,1000.0
+cpd00047,for: Formate,1000.0
+cpd30321,fru: D-Fructose,4.6
+cpd00724,gal: D-Galactose,4.6
+cpd01171,galt: galactitol,4.6
+cpd00276,gam: D-Glucosamine,4.6
+cpd00027,glc__D: D-glucose,4.6
+cpd00053,gln__L: L-glutamine,0.46
+cpd00540,glyb: glycine betaine,0.46
+cpd00100,glyc: Glycerol,4.6
+cpd00080,glyc3p: Glycerol 3-phosphate,4.6
+cpd01459,glyleu: Glycylleucine,0.46
+cpd22832,glypro: Glycylproline,0.46
+cpd00067,h: proton,1000.0
+cpd00001,h2o: Water,1000.0
+cpd00531,hg2: Hg2+,1000.0
+cpd00119,his__L: L-histidine,0.46
+cpd00322,ile__L: L-isoleucine,0.46
+cpd00205,k: potassium,1000.0
+cpd00159,lac__L: L-lactate,5.5
+cpd03809,lcts: Lactose,4.6
+cpd00039,lys__L: L-lysine,0.46
+cpd00179,malt: Maltose,4.6
+cpd01329,malthx: Maltohexaose,4.6
+cpd01262,malttr: maltotriose,4.6
+cpd00138,man: D-Mannose,4.6
+cpd00637,met__D: D-Methionine,0.46
+cpd00060,met__L: L-methionine,0.46
+cpd14720,metsox_R__L: L-methionine-R-sulfoxide,0.46
+cpd14721,metsox_S__L: L-Methionine Sulfoxide,0.46
+cpd00254,mg2: magnesium,1000.0
+cpd00030,mn2: Mn2+,1000.0
+cpd00314,mnl: D-Mannitol,4.6
+cpd11606,mqn7: Menaquinone 7,1000.0
+cpd00971,na1: Sodium,1000.0
+cpd00013,nh4: Ammonium,1000.0
+cpd00355,nmn: NMN,1000.0
+cpd00075,no2: Nitrite,1000.0
+cpd00007,o2: O2,20.0
+cpd00064,orn: Ornithine,0.46
+cpd00066,phe__L: L-phenylalanine,0.46
+cpd00009,pi: hydrogenphosphate,1000.0
+cpd00644,pnto__R: (R)-Pantothenate,1000.0
+cpd00129,pro__L: L-proline,0.46
+cpd00118,ptrc: Putrescine,1000.0
+cpd00220,ribflv: Riboflavin,1000.0
+cpd01030,salcn: Salicin,4.6
+cpd00588,sbt__D: D-glucitol,4.6
+cpd00054,ser__L: L-serine,0.46
+cpd00557,sheme: Siroheme,1000.0
+cpd00048,so4: sulfate,1000.0
+cpd00264,spmd: Spermidine,1000.0
+cpd00076,sucr: Sucrose,4.6
+cpd00305,thm: Thiamin,1000.0
+cpd00161,thr__L: L-threonine,0.46
+cpd00794,tre: Trehalose,4.6
+cpd00065,trp__L: L-tryptophan,0.46
+cpd00069,tyr__L: L-tyrosine,0.46
+cpd00092,ura: uracil,1000.0
+cpd00156,val__L: L-valine,0.46
+cpd00309,xan: Xanthine,1000.0
+cpd00034,zn2: Zinc,1000.0
+cpd00218,nac: Nicotinate,1000.0
+cpd00128,ade: Adenine,1000.0
+cpd00207,gua: Guanine,1000.0
+cpd00419,pydam: Pyridoxamine,1000.0
+cpd00263,pydxn: Pyridoxine,1000.0
+cpd00041,asp__L: L-Aspartate,0.46
+cpd00246,ins: Inosine,1000.0
+cpd00242,hco3: Bicarbonate,1000.0
+cpd00033,gly: Glycine,0.46
+cpd19008,actn__R: R-Acetoin,4.6
+cpd00184,thymd: Thymidine,1000.0
+cpd00132,asn__L: L-Asparagine,0.46
+cpd00023,glu__L: L-Glutamate,0.46
+cpd00443,4abz: 4-Aminobenzoate,1000.0
+cpd00247,orot: Orotate,1000.0
+cpd00137,cit: Citrate,1000.0
+cpd00059,ascb__L: L-Ascorbate,4.6
+cpd03422,cbi: Cobinamide,1000.0
+cpd00006,nadp: Nicotinamide adenine dinucleotide phosphate,1000.0
+cpd00185,arab__D: D-Arabinose,4.6
+cpd00157,dha: Dihydroxyacetone,4.6
+cpd00072,f6p: D-Fructose 6-phosphate,4.6
+cpd00222,glcn__D: D Gluconate C6H11O7,4.6
+cpd15585,mbdg: Beta Methylglucoside C7H14O6,4.6
+cpd01200,pala: Palatinose C12H22O11,4.6
+cpd27094,rmn: L-Rhamnose,4.6
+cpd00154,xyl__D: D-Xylose,4.6
+cpd00492,acmana: N-Acetyl-D-mannosamine,4.6
+cpd01067,lyx__L: L-Lyxose,4.6
+cpd00079,g6p: D-Glucose 6-phosphate,4.6
+cpd00164,glcur: D-Glucuronate,4.6
+cpd00105,rib__D: D-Ribose,4.6
+cpd00249,uri: Uridine,4.6
+cpd00182,adn: Adenosine,4.6
+cpd00751,fuc__L: L-Fucose,4.6
+cpd00589,tag__D: D-Tagatose,4.6

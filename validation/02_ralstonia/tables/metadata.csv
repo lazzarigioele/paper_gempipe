@@ -1,0 +1,12 @@
+,strain,phylotype,species,accession
+0,GMI1000,I,R. pseudosolanacearum,GCA_029220065.1
+1,PSS4,I,R. pseudosolanacearum,GCA_029220045.1
+2,RUN2340,III,R. pseudosolanacearum,GCA_029220025.1
+3,CFBP2957,IIA,R. solanacearum,GCA_029220005.1
+4,K60,IIA,R. solanacearum,GCA_029219985.1
+5,BA7,IIA,R. solanacearum,GCA_029219965.1
+6,UW551,IIB,R. solanacearum,GCA_029219945.1
+7,MOLK2,IIB,R. solanacearum,GCF_000009125.1
+8,PSI07,IV,R. syzygii,GCF_002251695.1
+9,R24,IV,R. syzygii,GCF_002251655.1
+10,BDBR229,IV,R. syzygii,GCF_000283475.1
